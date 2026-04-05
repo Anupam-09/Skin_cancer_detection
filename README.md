@@ -69,13 +69,13 @@ To build a Convolutional Neural Network (CNN) model that can accurately classify
 ---
 
 ## 📁 Project Structure
+
 skin-cancer-detection/
 │
-├── skin_cancer_detection.ipynb
-├── requirements.txt
-├── README.md
-├── model.h5 (optional)
-└── results/
+├── README.md                      # Contains project overview and instructions
+├── app2.py                        # Backend script for loading model and making predictions
+├── requirements.txt               # Required Python libraries
+└── skin_cancer_detection.ipynb    # Notebook for data preprocessing, model training, and evaluation
 
 ---
 
